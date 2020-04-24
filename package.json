@@ -2,7 +2,7 @@
   "name": "smart-thermometer",
   "version": "0.0.1",
   "description": "Homebridge plugin for the M5Stack-based SmartThermometer",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +16,7 @@
   "author": "Thomas Bonk",
   "license": "Apache-2.0",
   "devDependencies": {
-    "homebridge-framework": "^1.0.6"
+    "homebridge-framework": "^1.0.6",
+    "typescript": "^3.8.3"
   }
 }
