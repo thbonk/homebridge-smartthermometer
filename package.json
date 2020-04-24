@@ -13,6 +13,13 @@
     "smart",
     "thermometer"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thbonk/homebridge-smartthermometer.git"
+  },
+  "bugs": {
+    "url": "http://github.com/thbonk/homebridge-smartthermometer/issues"
+  },
   "author": "Thomas Bonk",
   "license": "Apache-2.0",
   "devDependencies": {
